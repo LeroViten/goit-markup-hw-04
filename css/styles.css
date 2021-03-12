@@ -201,6 +201,7 @@ body {
 /* ================HERO====================== */
 
 .hero {
+  min-width: 1600px;
   background-color: var(--background-color);
   background-image: linear-gradient(
       to right,
