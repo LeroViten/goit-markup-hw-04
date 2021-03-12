@@ -599,7 +599,7 @@ body {
 }
 
 .item-icon {
-  fill: currentColor;
+  fill: var(--white-color);
 }
 /* ========================END STUDIO FOOTER========================== */
 
