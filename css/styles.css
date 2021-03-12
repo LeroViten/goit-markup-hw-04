@@ -438,6 +438,9 @@ body {
   color: var(--customers-icon-color);
   justify-content: center;
   align-items: center;
+}
+
+.social-hub-thumb {
   margin-top: 16px;
 }
 
