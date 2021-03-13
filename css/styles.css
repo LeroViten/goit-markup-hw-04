@@ -201,7 +201,7 @@ body {
 /* ================HERO====================== */
 
 .hero {
-  min-width: 1600px;
+  max-width: 1600px;
   background-color: var(--background-color);
   background-image: linear-gradient(
       to right,
@@ -425,6 +425,7 @@ body {
 
 .social-hub {
   display: flex;
+  margin-top: 16px;
 }
 
 .social-hub-thumb:not(:last-child) {
@@ -439,10 +440,6 @@ body {
   color: var(--customers-icon-color);
   justify-content: center;
   align-items: center;
-}
-
-.social-hub-thumb {
-  margin-top: 16px;
 }
 
 .social-hub-link:hover,
